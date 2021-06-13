@@ -10,7 +10,7 @@
   - Optimization
   
 - 📫 How to reach me ...
-  - Email : kg05903123@gamil.com
+  - Email : kg05903123@gmail.com
 
 <!---
 leejisue/leejisue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
